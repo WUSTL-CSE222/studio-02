@@ -19,6 +19,6 @@ use-case?***
 
 ***Q5.2 Inspect the box that represents the "Target Color" (not the box with the label "Target Color", but the one to the right that has a white background and black border).  Using the computed properties tab, change the border color.  List the different ways you can pick colors:***
 
-***Q7.1  You may notice the page seems incomplete. What's contained in the HTML, but not shown on the screen?:***
+***Q6.1  You may notice the page seems incomplete. What's contained in the HTML, but not shown on the screen?:***
 
-***Q7.2  Explain the nature of the error the validator did not catch.  Why couldn't the validator identify it?:***
+***Q6.2  Explain the nature of the error the validator did not catch.  Why couldn't the validator identify it?:***
